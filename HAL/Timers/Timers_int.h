@@ -2,7 +2,7 @@
  * TIMERs_int.h
  *
  *  Created on: Dec 3, 2023
- *      Author: philopater ghobrial
+ *      Author: Mohamed mamdoh
  */
 
 #ifndef TIMERS_INT_H_
